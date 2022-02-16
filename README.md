@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @98tarunkumar
+- 👋 Hi, I’m Tarun
 - 👀 I’m interested in Web Dev 
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on MERN Full stack

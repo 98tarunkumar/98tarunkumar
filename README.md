@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun
 - 👀 I’m interested in Web Dev 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack, Web 3.0
 - 💞️ I’m looking to collaborate on MERN Full stack
 - 📫 How to reach me 98tarunkumar@gmail.com
 

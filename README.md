@@ -1,3 +1,9 @@
+<p align="center">
+
+<img width="400" height="300" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif">
+
+</p>
+
 - 👋 Hi, I’m Tarun
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning MERN stack, Web 3.0
@@ -7,13 +13,11 @@
 <br/>
 <br/>
 <br/>
-<p align = "center">
+<p align="center" >
   <img src = "https://github-readme-stats.vercel.app/api?username=98tarunkumar&show_icons=true&theme=dark" width = 400>
-</p>
-<p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=98tarunkumar&theme=dark&hide_border=true" width = 400>
 </p>
-<p align = "center">
+<p >
   <a href="https://github.com/98tarunkumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98tarunkumar&layout=compact&theme=dark" /></a>
  </p>
 <!---

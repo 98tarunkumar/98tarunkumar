@@ -1,7 +1,7 @@
 <p>
 
 <img width="400" height="300" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif">
-    <div>
+    <div width="400">
     - 👋 Hi, I’m Tarun <br/>
 - 👀 I’m interested in Web Dev <br/>
 - 🌱 I’m currently learning MERN stack, Web 3.0 <br/>

@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on MERN Full stack
 - 📫 How to reach me 98tarunkumar@gmail.com
 
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=98tarunkumar)](https://github.com/98tarunkumar/github-readme-stats)
+
 <!---
 98tarunkumar/98tarunkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

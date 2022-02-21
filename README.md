@@ -1,14 +1,13 @@
 <p>
 
 <img width="400" height="300" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif">
-    <div width="400">
-    - 👋 Hi, I’m Tarun <br/>
-- 👀 I’m interested in Web Dev <br/>
-- 🌱 I’m currently learning MERN stack, Web 3.0 <br/>
-- 💞️ I’m looking to collaborate on MERN Full stack <br/>
-- 📫 How to reach me 98tarunkumar@gmail.com <br/>
-    </div>
+    
 </p>
+
+- 👋 Hi, I’m Tarun
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning MERN stack, Web 3.0
+- 💞️ I’m looking to collaborate on MERN Full stack - 📫 How to reach me 98tarunkumar@gmail.com
 
 <br/>
 <br/>

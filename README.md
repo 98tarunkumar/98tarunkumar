@@ -14,7 +14,6 @@
 <br/>
 <p >
   <img src = "https://github-readme-stats.vercel.app/api?username=98tarunkumar&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=98tarunkumar&theme=dark&hide_border=true" width = 400>
 </p>
 <p >
   <a href="https://github.com/98tarunkumar/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98tarunkumar&layout=compact&theme=dark" /></a>

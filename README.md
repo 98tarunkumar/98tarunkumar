@@ -3,14 +3,13 @@
   
   # Hi there, I'm Tarun! 👋
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tarun-kumar-dev)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:98tarunkumar@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
 </div>
 
 ## 🚀 About Me
 
-Full Stack Developer passionate about building innovative web solutions and exploring emerging technologies. Currently diving deep into MERN Stack and Web 3.0 technologies.
+Full Stack Developer passionate about building innovative web solutions and exploring emerging technologies. Currently diving deep into AI technologies.
 
 ## 💻 Tech Stack
 
